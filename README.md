@@ -1,6 +1,5 @@
 # Table of Contents
-
-1.  [Package Setup](#Package%20setup)
+1.  [Package Setup](#package-setup)
 2.  [User input](#User%20input)
 3.  [Pathway network construction](#Pathway%20network%20construction)
 4.  [Pathway network processing](#Pathway%20network%20processing)
